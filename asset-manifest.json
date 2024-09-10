@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RunCoachAI/static/css/main.bc4f4d03.css",
+    "main.js": "/RunCoachAI/static/js/main.de8df58e.js",
+    "index.html": "/RunCoachAI/index.html",
+    "main.bc4f4d03.css.map": "/RunCoachAI/static/css/main.bc4f4d03.css.map",
+    "main.de8df58e.js.map": "/RunCoachAI/static/js/main.de8df58e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4f4d03.css",
+    "static/js/main.de8df58e.js"
+  ]
+}
