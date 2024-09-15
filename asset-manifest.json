@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/RunCoachAI/static/css/main.bc4f4d03.css",
-    "main.js": "/RunCoachAI/static/js/main.de8df58e.js",
+    "main.css": "/RunCoachAI/static/css/main.8a98f849.css",
+    "main.js": "/RunCoachAI/static/js/main.14282fa7.js",
+    "static/media/five_km_progress.png": "/RunCoachAI/static/media/five_km_progress.35526f5a4c285c191d05.png",
     "index.html": "/RunCoachAI/index.html",
-    "main.bc4f4d03.css.map": "/RunCoachAI/static/css/main.bc4f4d03.css.map",
-    "main.de8df58e.js.map": "/RunCoachAI/static/js/main.de8df58e.js.map"
+    "main.8a98f849.css.map": "/RunCoachAI/static/css/main.8a98f849.css.map",
+    "main.14282fa7.js.map": "/RunCoachAI/static/js/main.14282fa7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc4f4d03.css",
-    "static/js/main.de8df58e.js"
+    "static/css/main.8a98f849.css",
+    "static/js/main.14282fa7.js"
   ]
 }
